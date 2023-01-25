@@ -4,7 +4,7 @@
 ### IMPORTANT: NEED "RUN-IN" XAMPP
 ### DOWNLOAD php -> composer
 
-
+==================================================================================
 ## [DOWNLOAD LARAVEL]*
 composer create-project laravel/laravel zionzionzionzion_test <br />
 cd zionzionzion_test <br /> 
@@ -32,6 +32,8 @@ php artisan migrate:reset<br />
 
 ## [RUN 127.0.0.1:8000]*
 php artisan serve<br />
+
+==================================================================================
 
 ## What is this document
 learning for zion. weclome to use those command for educational purpose.<br />
