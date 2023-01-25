@@ -6,12 +6,12 @@
 
 
 ## [DOWNLOAD LARAVEL]*
-composer create-project laravel/laravel zionzionzionzion_test
-cd zionzionzion_test
+composer create-project laravel/laravel zionzionzionzion_test__
+cd zionzionzion_test__
 
 ## [TEACH ME]
-php artisan list
-php artisan help migrate
+php artisan list__
+php artisan help migrate__
 
 ## [CREATE CONTROLLER]**
 php artisan make:controller AnotherZionsController 		//sController
